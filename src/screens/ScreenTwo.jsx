@@ -4,7 +4,7 @@ import Bottom from "../assets/Bottom.png";
 const ScreenTwo = () => {
   return (
     <>
-      <div className="w-full h-screen mt-10 2xl:mt-0">
+      <div className="w-full h-screen mt-10 2xl:mt-0 mb-24">
         <div className="h-full flex flex-col gap-16 lg:gap-0 lg:flex-row w-11/12 mx-auto xl:px-28">
           <div className="w-full sm:px-28 lg:px-0 lg:w-1/2 h-full flex items-center justify-center">
             <div className="flex flex-col  items-center lg:items-start gap-3 lg:gap-8 ">
@@ -45,7 +45,7 @@ const ScreenTwo = () => {
               </div>
             </div>
           </div>
-          <div className="w-full lg:w-1/2 h-full mt-16 lg:mt-0 flex items-center justify-center lg:justify-end 2xl:justify-center">
+          <div className="w-full pb-12 lg:pb-0 lg:w-1/2 h-full mt-16 lg:mt-0 flex items-center justify-center lg:justify-end 2xl:justify-center">
             <div className="w-96 2xl:w-[32rem] rounded-lg border 2xl:border-2 border-gray-400 overflow-hidden">
               <div className="w-full h-40 2xl:h-48 flex items-center justify-between relative py-6 overflow-hidden">
                 <div className="w-full h-full absolute z-30 bg-gradient-to-r from-[#ffffff] to-[#ffffff57] "></div>
