@@ -45,7 +45,7 @@ const ScreenTwo = () => {
               </div>
             </div>
           </div>
-          <div className="w-full pb-12 lg:pb-0 lg:w-1/2 h-full mt-16 lg:mt-0 flex items-center justify-center lg:justify-end 2xl:justify-center">
+          <div className="w-full pb-12 lg:pb-0 lg:w-1/2 h-full mt-16 lg:mt-0 flex items-center justify-center lg:justify-end">
             <div className="w-96 2xl:w-[32rem] rounded-lg border 2xl:border-2 border-gray-400 overflow-hidden">
               <div className="w-full h-40 2xl:h-48 flex items-center justify-between relative py-6 overflow-hidden">
                 <div className="w-full h-full absolute z-30 bg-gradient-to-r from-[#ffffff] to-[#ffffff57] "></div>

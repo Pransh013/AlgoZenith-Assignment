@@ -14,7 +14,7 @@ const Header = () => {
           AlgoZenith
         </h1>
       </div>
-      <div className="hidden lg:flex w-3/5 xl:w-1/2 justify-between 2xl:text-3xl items-center text-[#9AAFB7] text-lg">
+      <div className="hidden lg:flex w-3/5 xl:w-1/2 justify-between 2xl:text-2xl items-center text-[#9AAFB7] text-lg">
         <div>Home</div>
         <div className="flex items-center gap-1">
           <p>Courses</p>
